@@ -21,7 +21,7 @@
 
 ## Repository Description 
 
-The project uses Python to ... 
+The project uses Python Pandas library to analyze Titanic data from Kaggle to answer the question "What categories of passengers were most likely to survive the Titanic disaster?". The data set can be obtained at [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data).
 
 ## Installation 
 

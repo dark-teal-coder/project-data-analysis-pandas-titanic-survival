@@ -59,3 +59,7 @@ If `pip` fails to locate the relevant packages, you may find it at [Python Packa
 - [Binning Data with Pandas qcut() and cut()](https://pbpython.com/pandas-qcut-cut.html)
 - [pandas.DataFrame.any documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.any.html)
 - [pandas.DataFrame.dropna documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html)
+
+&nbsp;
+
+*1st Completion Date: Oct 23, 2022*&emsp;

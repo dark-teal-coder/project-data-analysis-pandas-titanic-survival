@@ -58,7 +58,7 @@ If `pip` fails to locate the relevant packages, you may find it at [Python Packa
 ### References 
 
 - [pandas.DataFrame.describe documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html)
-- [pandas.DataFrame.groupby](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html)
+- [pandas.DataFrame.groupby documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html)
 - [Binning Data with Pandas qcut() and cut()](https://pbpython.com/pandas-qcut-cut.html)
 - [pandas.DataFrame.any documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.any.html)
 - [pandas.DataFrame.dropna documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html)
